@@ -1,6 +1,10 @@
 not-news.txt
+<<<<<<< HEAD
 
 temp/
 
 sandbox/sandbox3.doc
 
+=======
+temp
+>>>>>>> modified dogs file
